@@ -6,7 +6,14 @@
     "quotes": "off",
     "react/prop-types": 0,
     "arrow-body-style": 0,
-    "space-before-function-paren": 0
+    "space-before-function-paren": 0,
+    "indent": "off",
+    "no-tabs": "off",
+    "no-mixed-spaces-and-tabs": "off",
+    "eol-last": "off",
+    "react/jsx-indent": "off",
+    "react/jsx-indent-props": "off",
+    "import/prefer-default-export": "off"
   },
   "env": {
     "browser": true
